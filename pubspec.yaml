@@ -1,0 +1,5 @@
+name: frame_extractor
+
+dependencies:
+  image: ^2.1.12
+  path: ^1.7.0
